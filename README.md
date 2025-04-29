@@ -1,2 +1,6 @@
-# exams-kott-s25
-Building an Final Exams Table
+**TOOLS USED**
+* codepen.io
+* GitHub
+    * respositories
+    * codespaces
+* Netlify
